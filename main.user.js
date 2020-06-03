@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name					Styles: Upwork.com Message Center
-// @version					0.2.8
+// @version					0.2.9
 // @description				Clear some of the elements from Upwork.com message center.
 // @author					GHNalk2016
 // @include					*://*.upwork.com/messages/rooms/*
