@@ -12,7 +12,7 @@
 
 addGlobalStyle('#up-s-top-nav-container { display: none; }'); // On/off main header.
 
-addGlobalStyle('#room-nav { display: none; }'); // On/off left panel.
+addGlobalStyle('#room-nav { display: none !important; }'); // On/off left panel.
 //addGlobalStyle('#room-nav .room-leftnav-header { display: none; }'); // On/off left panel header.
 
 addGlobalStyle('#room-main-body { width: 100% !important; height: calc(100% + 142px); }'); // On/off story panel header.
