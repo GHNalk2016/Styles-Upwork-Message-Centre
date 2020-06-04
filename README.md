@@ -1,7 +1,8 @@
-# Important;
+# Important
 In the long run you may use "main.user.js" for the @downloadURL key, and "main.meta.js" for the @updateURL key.
 
-# How @downloadURL and @updateURL work:
+# Help
+## How @downloadURL and @updateURL work:
 @downloadURL merely overrides the default internal "download URL" location.
 @updateURL merely overrides the default internal "update URL" (or check) location.
 In most cases, there is no need to do this. See, below.
@@ -12,3 +13,7 @@ In most cases, there is no need to do this. See, below.
 
 So: @updateURL overrides both @downloadURL and the default location for checking operations only.
 While: @downloadURL overrides the default location for both checking and downloading (unless @updateURL is present).
+
+...
+
+Source: https://stackoverflow.com/questions/38023717/why-is-usage-of-the-downloadurl-updateurl-keys-called-unusual-and-how-do-they
