@@ -1,5 +1,5 @@
 # Important;
-In the long run you may replace "main.user.js" with "main.meta.js" for the @updateURL key.
+In the long run you may use "main.user.js" for the @downloadURL key, and "main.meta.js" for the @updateURL key.
 
 # How @downloadURL and @updateURL work:
 @downloadURL merely overrides the default internal "download URL" location.
