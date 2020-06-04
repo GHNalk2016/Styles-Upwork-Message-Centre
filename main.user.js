@@ -10,7 +10,7 @@
 // @downloadURL		https://raw.githubusercontent.com/GHNalk2016/Styles-Upwork-Message-Centre/master/main.user.js
 // ==/UserScript==
 
-//addGlobalStyle('#up-s-top-nav-container { display: none; }'); // On/off main header.
+addGlobalStyle('#up-s-top-nav-container { display: none; }'); // On/off main header.
 
 addGlobalStyle('#room-nav { display: none !important; }'); // On/off left panel.
 //addGlobalStyle('#room-nav .room-leftnav-header { display: none; }'); // On/off left panel header.
