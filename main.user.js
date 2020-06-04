@@ -1,16 +1,16 @@
 // ==UserScript==
-// @name					Styles: Upwork.com Message Center
-// @version					0.2.11
-// @description				Clear some of the elements from Upwork.com message center.
-// @author					GHNalk2016
-// @include					*://*.upwork.com/messages/rooms/*
-// @require					http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js
-// @grant					GM_addStyle
-// @updateURL				https://raw.githubusercontent.com/GHNalk2016/Styles-Upwork-Message-Centre/master/main.user.js
-// @downloadURL				https://raw.githubusercontent.com/GHNalk2016/Styles-Upwork-Message-Centre/master/main.user.js
+// @name			Styles: Upwork.com Message Center
+// @version			0.2.11
+// @description		Clear some of the elements from Upwork.com message center.
+// @author			GHNalk2016
+// @include			*://*.upwork.com/messages/rooms/*
+// @require			http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js
+// @grant			GM_addStyle
+// @updateURL		https://raw.githubusercontent.com/GHNalk2016/Styles-Upwork-Message-Centre/master/main.user.js
+// @downloadURL		https://raw.githubusercontent.com/GHNalk2016/Styles-Upwork-Message-Centre/master/main.user.js
 // ==/UserScript==
 
-addGlobalStyle('#up-s-top-nav-container { display: none; }'); // On/off main header.
+//addGlobalStyle('#up-s-top-nav-container { display: none; }'); // On/off main header.
 
 addGlobalStyle('#room-nav { display: none !important; }'); // On/off left panel.
 //addGlobalStyle('#room-nav .room-leftnav-header { display: none; }'); // On/off left panel header.
